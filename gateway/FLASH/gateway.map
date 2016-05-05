@@ -1,0 +1,970 @@
+Archive member included because of file (symbol)
+
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (exit)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (memset)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o) (__fill_mem)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+                              (__pformatter_)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+                              (__sformatter)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o) (isspace)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o) (__strtoul)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o) (strchr)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o) (memcpy)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o) (strlen)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o) (memchr)
+c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o) (__gnu_thumb1_case_sqi)
+c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o) (__gnu_thumb1_case_uqi)
+c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o) (__aeabi_uidiv)
+c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (__init_cpp)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                              C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o) (__destroy_global_chain)
+C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+                              ./Project_Settings/Startup_Code/__arm_start.o (__copy_rom_sections_to_ram)
+
+Allocating common symbols
+Common symbol       size              file
+
+All_TXBuffer        0x6               ./MSCAN_DRIVER/CAN_src/msCANgv.o
+ErrCallbacks_User_Def
+                    0x4               ./MSCAN_DRIVER/CAN_src/msCANgv.o
+Uart_Callback       0x4               ./Sources/UART.o
+All_Buffer          0x1c0             ./MSCAN_DRIVER/CAN_src/msCANgv.o
+DriverFlags         0x5               ./MSCAN_DRIVER/CAN_src/msCANgv.o
+All_REALTIME_Buffer
+                    0x14              ./MSCAN_DRIVER/CAN_src/msCANgv.o
+CCRcopy             0x4               ./MSCAN_DRIVER/CAN_src/msCANgv.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+ .data          0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+ .bss           0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+ .text          0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .data          0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .bss           0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Sleep_CAN
+                0x00000000       0xd4 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Wakeup_CAN
+                0x00000000       0xe0 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Clear_CAN_Status
+                0x00000000       0x58 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Check_CAN_MB_Status
+                0x00000000       0xcc ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Abort_CAN_MB
+                0x00000000      0x1e4 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Read_CAN_MB_Data
+                0x00000000       0x90 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Read_CAN_MB_Time
+                0x00000000      0x108 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Read_Rec_Err_Counter
+                0x00000000       0xc0 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Read_Tran_Err_Counter
+                0x00000000       0xb4 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Read_MB_Data
+                0x00000000      0x18c ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Register_Callback
+                0x00000000       0x48 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text.Unregister_Callback
+                0x00000000       0x44 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .text          0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANID.o
+ .data          0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANID.o
+ .bss           0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANID.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_start.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_start.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_start.o
+ .text.__iar_program_start
+                0x00000000        0x4 ./Project_Settings/Startup_Code/__arm_start.o
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_end.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_end.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/__arm_end.o
+ .text          0x00000000        0x0 ./Sources/main.o
+ .data          0x00000000        0x0 ./Sources/main.o
+ .bss           0x00000000        0x0 ./Sources/main.o
+ .text          0x00000000        0x0 ./Sources/UART.o
+ .data          0x00000000        0x0 ./Sources/UART.o
+ .bss           0x00000000        0x0 ./Sources/UART.o
+ .text.Uart_SendChar
+                0x00000000       0x34 ./Sources/UART.o
+ .text          0x00000000        0x0 ./Sources/MSCAN_Module.o
+ .data          0x00000000        0x0 ./Sources/MSCAN_Module.o
+ .bss           0x00000000        0x0 ./Sources/MSCAN_Module.o
+ .text          0x00000000        0x0 ./Sources/CLK.o
+ .data          0x00000000        0x0 ./Sources/CLK.o
+ .bss           0x00000000        0x0 ./Sources/CLK.o
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isalnum  0x00000000       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.iscntrl  0x00000000       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isdigit  0x00000000        0xe C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isgraph  0x00000000       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.islower  0x00000000       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isprint  0x00000000       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.ispunct  0x00000000       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isupper  0x00000000       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isxdigit
+                0x00000000       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.isblank  0x00000000       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text.tolower  0x00000000        0xe C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .bss.__dso_handle
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__register_global_object
+                0x00000000       0x14 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__cxa_atexit
+                0x00000000       0x38 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__aeabi_atexit
+                0x00000000        0xe C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__register_atexit
+                0x00000000        0xc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text.__init_hardware
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_curr_func
+                0x00000000        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .bss.atexit_funcs
+                0x00000000      0x300 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .text          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .data          0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .bss           0x00000000        0x0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ .text.__flush_cache
+                0x00000000        0x2 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x00000000         0x000000c0         xr
+m_cfmprotrom     0x00000400         0x00000010         xr
+m_text           0x00000800         0x0001f800         xr
+m_data           0x1ffff000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./MSCAN_DRIVER/CAN_src/msCANgv.o
+LOAD ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+LOAD ./MSCAN_DRIVER/CAN_src/msCANID.o
+LOAD ./Project_Settings/Startup_Code/kinetis_sysinit.o
+LOAD ./Project_Settings/Startup_Code/__arm_start.o
+LOAD ./Project_Settings/Startup_Code/__arm_end.o
+LOAD ./Sources/main.o
+LOAD ./Sources/UART.o
+LOAD ./Sources/MSCAN_Module.o
+LOAD ./Sources/CLK.o
+                0x00002804                __pformatter = __pformatter_
+                [0x00002c2c]                __sformatter = __sformatter
+START GROUP
+LOAD C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a
+LOAD C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libm.a
+LOAD c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a
+LOAD C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a
+LOAD C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libuart.a
+END GROUP
+                0x20003000                _estack = 0x20003000
+                0x20003000                __SP_INIT = _estack
+                0x00000100                __heap_size = 0x100
+                0x00000100                __stack_size = 0x100
+
+.interrupts     0x00000000       0xc0
+                0x00000000                __vector_table = .
+                0x00000000                . = ALIGN (0x4)
+ *(.vectortable)
+ .vectortable   0x00000000       0xc0 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+                0x00000000                InterruptVector
+                0x000000c0                . = ALIGN (0x4)
+
+.cfmprotect     0x00000400        0x0
+                0x00000400                . = ALIGN (0x4)
+ *(.cfmconfig)
+                0x00000400                . = ALIGN (0x4)
+
+.text           0x00000800     0x3024
+                0x00000800                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000800       0x14 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+                0x00000800                __gnu_thumb1_case_sqi
+ .text          0x00000814       0x14 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+                0x00000814                __gnu_thumb1_case_uqi
+ .text          0x00000828       0x9c c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+                0x00000828                __aeabi_uidiv
+                0x00000828                __udivsi3
+                0x000008b0                __aeabi_uidivmod
+ .text          0x000008c4        0x4 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x000008c4                __aeabi_idiv0
+                0x000008c4                __aeabi_ldiv0
+ *(.text*)
+ .text.Init_CAN
+                0x000008c8      0x23c ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x000008c8                Init_CAN
+ .text.Reset_CAN
+                0x00000b04      0x108 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x00000b04                Reset_CAN
+ .text.Check_CAN_Status
+                0x00000c0c       0x74 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x00000c0c                Check_CAN_Status
+ .text.Config_CAN_MB
+                0x00000c80      0x1dc ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x00000c80                Config_CAN_MB
+ .text.Load_CAN_MB
+                0x00000e5c      0x1a8 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x00000e5c                Load_CAN_MB
+ .text.Transmit_CAN_MB
+                0x00001004      0x1c4 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x00001004                Transmit_CAN_MB
+ .text.Queue_CAN_MB
+                0x000011c8      0x27c ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x000011c8                Queue_CAN_MB
+ .text.Load_CAN_Buff
+                0x00001444      0x170 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x00001444                Load_CAN_Buff
+ .text.CAN_Transmit
+                0x000015b4      0x474 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x000015b4                CAN_Transmit
+ .text.CAN_Receive
+                0x00001a28      0x518 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x00001a28                CAN_Receive
+ .text.CAN_Wakeup
+                0x00001f40       0x5c ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x00001f40                CAN_Wakeup
+ .text.CAN_ERR  0x00001f9c       0x8c ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                0x00001f9c                CAN_ERR
+ .text.Default_Handler
+                0x00002028        0xc ./Project_Settings/Startup_Code/kinetis_sysinit.o
+                0x00002028                I2C0_IRQHandler
+                0x00002028                HardFault_Handler
+                0x00002028                SysTick_Handler
+                0x00002028                PendSV_Handler
+                0x00002028                NMI_Handler
+                0x00002028                I2C1_IRQHandler
+                0x00002028                UART0_SCI0_IRQHandler
+                0x00002028                ADC0_IRQHandler
+                0x00002028                WDG_IRQHandler
+                0x00002028                SPI1_IRQHandler
+                0x00002028                FTMRE_IRQHandler
+                0x00002028                RTC_IRQHandler
+                0x00002028                IRQ_IRQHandler
+                0x00002028                FTM1_IRQHandler
+                0x00002028                PIT_CH0_IRQHandler
+                0x00002028                Default_Handler
+                0x00002028                ACMP0_IRQHandler
+                0x00002028                PWT_IRQHandler
+                0x00002028                SVC_Handler
+                0x00002028                ICS_IRQHandler
+                0x00002028                PIT_CH1_IRQHandler
+                0x00002028                KBI0_IRQHandler
+                0x00002028                PMC_IRQHandler
+                0x00002028                SPI0_IRQHandler
+                0x00002028                FTM0_IRQHandler
+                0x00002028                FTM2_IRQHandler
+                0x00002028                ACMP1_IRQHandler
+                0x00002028                KBI1_IRQHandler
+                0x00002028                UART1_SCI1_IRQHandler
+ .text.__init_hardware
+                0x00002034       0x38 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+                0x00002034                __init_hardware
+ .text.zero_fill_bss
+                0x0000206c       0x24 ./Project_Settings/Startup_Code/__arm_start.o
+ .text.__thumb_startup
+                0x00002090       0x30 ./Project_Settings/Startup_Code/__arm_start.o
+                0x00002090                __thumb_startup
+ .text._ExitProcess
+                0x000020c0        0xc ./Project_Settings/Startup_Code/__arm_end.o
+                0x000020c0                _ExitProcess
+ .text.main     0x000020cc       0x48 ./Sources/main.o
+                0x000020cc                main
+ .text.Uart2_Receive
+                0x00002114       0x9c ./Sources/main.o
+                0x00002114                Uart2_Receive
+ .text.Initialize_UART
+                0x000021b0       0x18 ./Sources/main.o
+                0x000021b0                Initialize_UART
+ .text.Initialize_CAN
+                0x000021c8       0x7c ./Sources/main.o
+                0x000021c8                Initialize_CAN
+ .text.Enable_Interrupt
+                0x00002244       0x5c ./Sources/main.o
+                0x00002244                Enable_Interrupt
+ .text.Disable_Interrupt
+                0x000022a0       0x60 ./Sources/main.o
+                0x000022a0                Disable_Interrupt
+ .text.delay_ms
+                0x00002300       0x34 ./Sources/main.o
+                0x00002300                delay_ms
+ .text.Led_init
+                0x00002334       0x44 ./Sources/main.o
+                0x00002334                Led_init
+ .text.Led_toggle
+                0x00002378       0x38 ./Sources/main.o
+                0x00002378                Led_toggle
+ .text.UART_Init
+                0x000023b0       0x60 ./Sources/UART.o
+                0x000023b0                UART_Init
+ .text.Uart_SetCallback
+                0x00002410       0x18 ./Sources/UART.o
+                0x00002410                Uart_SetCallback
+ .text.Uart_GetChar
+                0x00002428       0x34 ./Sources/UART.o
+                0x00002428                Uart_GetChar
+ .text.UART2_SCI2_IRQHandler
+                0x0000245c       0x24 ./Sources/UART.o
+                0x0000245c                UART2_SCI2_IRQHandler
+ .text.MSCAN_ModuleEn
+                0x00002480       0x60 ./Sources/MSCAN_Module.o
+                0x00002480                MSCAN_ModuleEn
+ .text.MSCAN_Rx_IRQHandler
+                0x000024e0       0x10 ./Sources/MSCAN_Module.o
+                0x000024e0                MSCAN_Rx_IRQHandler
+ .text.MSCAN_Tx_IRQHandler
+                0x000024f0       0x60 ./Sources/MSCAN_Module.o
+                0x000024f0                MSCAN_Tx_IRQHandler
+ .text.Clk_Init
+                0x00002550       0x54 ./Sources/CLK.o
+                0x00002550                Clk_Init
+ .text.exit     0x000025a4       0x38 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+                0x000025a4                exit
+ .text.memset   0x000025dc        0xc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+                0x000025dc                memset
+ .text.__fill_mem
+                0x000025e8       0x7e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+                0x000025e8                __fill_mem
+ *fill*         0x00002666        0x2 00
+ .text.long2str.isra.0
+                0x00002668      0x19c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .text.__pformatter_
+                0x00002804      0x428 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+                0x00002804                __pformatter_
+ .text.__sformatter
+                0x00002c2c      0x698 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+                0x00002c2c                __sformatter
+ .text.isalpha  0x000032c4       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x000032c4                isalpha
+ .text.isspace  0x000032e4       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x000032e4                isspace
+ .text.toupper  0x00003304        0xe C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x00003304                toupper
+ .text.__strtoul
+                0x00003312      0x1ce C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+                0x00003312                __strtoul
+ .text.strchr   0x000034e0       0x1e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+                0x000034e0                strchr
+ .text.memcpy   0x000034fe       0x12 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+                0x000034fe                memcpy
+ .text.strlen   0x00003510       0x10 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+                0x00003510                strlen
+ .text.memchr   0x00003520       0x1a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+                0x00003520                memchr
+ *fill*         0x0000353a        0x2 00
+ .text.__init_cpp
+                0x0000353c       0x48 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                0x0000353c                __init_cpp
+ .text.__fini_cpp
+                0x00003584       0x34 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                0x00003584                __fini_cpp
+ .text.__destroy_global_chain
+                0x000035b8       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x000035b8                __destroy_global_chain
+ .text.__init_registers
+                0x000035d4       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x000035d4                __init_registers
+ .text.__init_user
+                0x000035f0        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x000035f0                __init_user
+ .text.__copy_rom_section
+                0x000035f4       0x48 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+                0x000035f4                __copy_rom_section
+ .text.__copy_rom_sections_to_ram
+                0x0000363c       0x34 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+                0x0000363c                __copy_rom_sections_to_ram
+ *(.rodata)
+ *(.rodata*)
+ .rodata.NoOfMB
+                0x00003670        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x00003670                NoOfMB
+ .rodata.NoOfID
+                0x00003674        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x00003674                NoOfID
+ .rodata.TimeStampOption
+                0x00003678        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x00003678                TimeStampOption
+ .rodata.REAL_TIME_BUFFER_Option
+                0x0000367c        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x0000367c                REAL_TIME_BUFFER_Option
+ .rodata.MSCANDef
+                0x00003680        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x00003680                MSCANDef
+ .rodata.MSCANBuffers
+                0x00003684        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x00003684                MSCANBuffers
+ .rodata.REALTIMEBuffers
+                0x00003688        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x00003688                REALTIMEBuffers
+ .rodata.MSCANRegs
+                0x0000368c        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x0000368c                MSCANRegs
+ .rodata.MSCANTXBuffers
+                0x00003690        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x00003690                MSCANTXBuffers
+ .rodata.All_Identifier
+                0x00003694       0x80 ./MSCAN_DRIVER/CAN_src/msCANID.o
+                0x00003694                All_Identifier
+ .rodata.MSCANIdentifier
+                0x00003714        0x4 ./MSCAN_DRIVER/CAN_src/msCANID.o
+                0x00003714                MSCANIdentifier
+ .rodata.str1.1
+                0x00003718        0x1 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .rodata.CSWTCH.20
+                0x00003719        0x5 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .rodata.CSWTCH.21
+                0x0000371e        0x5 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .rodata.__aeabi_ctype_table_C
+                0x00003723      0x101 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                0x00003723                __aeabi_ctype_table_C
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x00003824                . = ALIGN (0x4)
+                0x00003824                _etext = .
+
+.vfp11_veneer   0x00003824        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00003824        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00003824        0x0
+ .iplt          0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+
+.rel.dyn        0x00003824        0x0
+ .rel.iplt      0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00003824        0x0
+                0x00003824                __exidx_start = .
+ *(.ARM.exidx*)
+                0x00003824                __exidx_end = .
+
+.ctors          0x00003824        0x0
+                0x00003824                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x00003824                __CTOR_END__ = .
+
+.dtors          0x00003824        0x0
+                0x00003824                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00003824                __DTOR_END__ = .
+
+.preinit_array  0x00003824        0x0
+                0x00003824                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x00003824                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00003824        0x0
+                0x00003824                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x00003824                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00003824        0x0
+                0x00003824                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+                0x00003824                PROVIDE (__fini_array_end, .)
+                0x00003824                ___ROM_AT = .
+
+.mtb            0x1ffff000        0x0
+                0x1ffff000                . = ALIGN (0x8)
+                0x1ffff000                _mtb_start = .
+ *(.mtb_buf)
+                0x1ffff000                . = ALIGN (0x8)
+                0x1ffff000                _mtb_end = .
+
+.data           0x1ffff000       0x38 load address 0x00003824
+                0x1ffff000                . = ALIGN (0x4)
+                0x1ffff000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.All_Def  0x1ffff000       0x18 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x1ffff000                All_Def
+ .data.LowestQueuedBuffer
+                0x1ffff018        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x1ffff018                LowestQueuedBuffer
+ .data.AbortMessage
+                0x1ffff01c        0x4 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x1ffff01c                AbortMessage
+ .data.vChnIdx  0x1ffff020        0x8 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x1ffff020                vChnIdx
+ .data.i.6182   0x1ffff028        0x4 ./Sources/main.o
+ .data.data.6152
+                0x1ffff02c        0xc ./Sources/main.o
+                0x1ffff038                . = ALIGN (0x4)
+                0x1ffff038                _edata = .
+                0x00000038                ___data_size = (_edata - _sdata)
+
+.igot.plt       0x1ffff038        0x0 load address 0x0000385c
+ .igot.plt      0x00000000        0x0 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x1ffff038                . = ALIGN (0x4)
+
+.bss            0x1ffff038      0x210 load address 0x0000385c
+                0x1ffff038                __START_BSS = .
+                0x1ffff038                PROVIDE (__bss_start__, __START_BSS)
+ *(.bss)
+ *(.bss*)
+ .bss.argv      0x1ffff038        0x4 ./Project_Settings/Startup_Code/__arm_start.o
+ .bss.can_data_len.6151
+                0x1ffff03c        0x1 ./Sources/main.o
+ *fill*         0x1ffff03d        0x3 00
+ .bss.__stdio_exit
+                0x1ffff040        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+                0x1ffff040                __stdio_exit
+ .bss.__console_exit
+                0x1ffff044        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+                0x1ffff044                __console_exit
+ .bss.__global_destructor_chain
+                0x1ffff048        0x4 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                0x1ffff048                __global_destructor_chain
+ .bss.__S_romp  0x1ffff04c        0xc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+ *(COMMON)
+ COMMON         0x1ffff058      0x1ec ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                0x1ffff058                All_TXBuffer
+                0x1ffff060                ErrCallbacks_User_Def
+                0x1ffff064                All_Buffer
+                0x1ffff224                DriverFlags
+                0x1ffff22c                All_REALTIME_Buffer
+                0x1ffff240                CCRcopy
+ COMMON         0x1ffff244        0x4 ./Sources/UART.o
+                0x1ffff244                Uart_Callback
+                0x1ffff248                . = ALIGN (0x4)
+                0x1ffff248                __END_BSS = .
+                0x1ffff248                PROVIDE (__bss_end__, __END_BSS)
+                0x0000385c                _romp_at = (___ROM_AT + SIZEOF (.data))
+
+.romp           0x1ffff248       0x18 load address 0x0000385c
+                0x0000385c                __S_romp = _romp_at
+                0x1ffff248        0x4 LONG 0x3824 ___ROM_AT
+                0x1ffff24c        0x4 LONG 0x1ffff000 _sdata
+                0x1ffff250        0x4 LONG 0x38 ___data_size
+                0x1ffff254        0x4 LONG 0x0
+                0x1ffff258        0x4 LONG 0x0
+                0x1ffff25c        0x4 LONG 0x0
+
+._user_heap_stack
+                0x1ffff260      0x200 load address 0x00003874
+                0x1ffff260                . = ALIGN (0x4)
+                0x1ffff260                PROVIDE (end, .)
+                0x1ffff260                PROVIDE (_end, .)
+                0x1ffff260                __heap_addr = .
+                0x1ffff360                . = (. + __heap_size)
+ *fill*         0x1ffff260      0x100 00
+                0x1ffff460                . = (. + __stack_size)
+ *fill*         0x1ffff360      0x100 00
+                0x1ffff460                . = ALIGN (0x4)
+
+.ARM.attributes
+                0x00000000       0x31
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x31 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+ .ARM.attributes
+                0x00000031       0x31 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .ARM.attributes
+                0x00000062       0x31 ./MSCAN_DRIVER/CAN_src/msCANID.o
+ .ARM.attributes
+                0x00000093       0x31 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .ARM.attributes
+                0x000000c4       0x31 ./Project_Settings/Startup_Code/__arm_start.o
+ .ARM.attributes
+                0x000000f5       0x31 ./Project_Settings/Startup_Code/__arm_end.o
+ .ARM.attributes
+                0x00000126       0x31 ./Sources/main.o
+ .ARM.attributes
+                0x00000157       0x31 ./Sources/UART.o
+ .ARM.attributes
+                0x00000188       0x31 ./Sources/MSCAN_Module.o
+ .ARM.attributes
+                0x000001b9       0x31 ./Sources/CLK.o
+ .ARM.attributes
+                0x000001ea       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .ARM.attributes
+                0x0000021b       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .ARM.attributes
+                0x0000024c       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .ARM.attributes
+                0x0000027d       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .ARM.attributes
+                0x000002ae       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .ARM.attributes
+                0x000002df       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .ARM.attributes
+                0x00000310       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .ARM.attributes
+                0x00000341       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .ARM.attributes
+                0x00000372       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .ARM.attributes
+                0x000003a3       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .ARM.attributes
+                0x000003d4       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .ARM.attributes
+                0x00000405       0x1e c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_sqi.o)
+ .ARM.attributes
+                0x00000423       0x1e c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x00000441       0x1e c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000045f       0x1e c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000047d       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .ARM.attributes
+                0x000004ae       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .ARM.attributes
+                0x000004df       0x31 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+OUTPUT(gateway.elf elf32-littlearm)
+
+.debug_info     0x00000000     0xaf76
+ .debug_info    0x00000000     0x3976 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+ .debug_info    0x00003976     0x4524 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .debug_info    0x00007e9a      0x107 ./MSCAN_DRIVER/CAN_src/msCANID.o
+ .debug_info    0x00007fa1      0x387 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_info    0x00008328      0x12a ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_info    0x00008452       0x54 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_info    0x000084a6      0x5bd ./Sources/main.o
+ .debug_info    0x00008a63      0x2ac ./Sources/UART.o
+ .debug_info    0x00008d0f      0x55e ./Sources/MSCAN_Module.o
+ .debug_info    0x0000926d       0xf1 ./Sources/CLK.o
+ .debug_info    0x0000935e       0xe8 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_info    0x00009446       0xec C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_info    0x00009532      0x137 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_info    0x00009669      0x50d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_info    0x00009b76      0x568 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_info    0x0000a0de      0x313 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_info    0x0000a3f1      0x1d6 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_info    0x0000a5c7      0x10b C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_info    0x0000a6d2      0x10f C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_info    0x0000a7e1       0xea C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_info    0x0000a8cb      0x121 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_info    0x0000a9ec      0x136 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_info    0x0000ab22      0x2b9 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_info    0x0000addb      0x19b C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_abbrev   0x00000000     0x1696
+ .debug_abbrev  0x00000000      0x195 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+ .debug_abbrev  0x00000195      0x244 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .debug_abbrev  0x000003d9       0xa4 ./MSCAN_DRIVER/CAN_src/msCANID.o
+ .debug_abbrev  0x0000047d      0x133 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_abbrev  0x000005b0       0x92 ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_abbrev  0x00000642       0x4c ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_abbrev  0x0000068e      0x168 ./Sources/main.o
+ .debug_abbrev  0x000007f6      0x10e ./Sources/UART.o
+ .debug_abbrev  0x00000904       0xe1 ./Sources/MSCAN_Module.o
+ .debug_abbrev  0x000009e5       0x83 ./Sources/CLK.o
+ .debug_abbrev  0x00000a68       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_abbrev  0x00000ae2       0x62 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_abbrev  0x00000b44       0x78 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_abbrev  0x00000bbc      0x200 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_abbrev  0x00000dbc      0x1f0 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_abbrev  0x00000fac       0x9e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_abbrev  0x0000104a       0xc2 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_abbrev  0x0000110c       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_abbrev  0x00001186       0x95 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_abbrev  0x0000121b       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_abbrev  0x00001295       0x95 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_abbrev  0x0000132a       0x99 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_abbrev  0x000013c3      0x1b3 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_abbrev  0x00001576      0x120 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_aranges  0x00000000      0x4f0
+ .debug_aranges
+                0x00000000       0x18 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+ .debug_aranges
+                0x00000018       0xd8 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .debug_aranges
+                0x000000f0       0x18 ./MSCAN_DRIVER/CAN_src/msCANID.o
+ .debug_aranges
+                0x00000108       0x28 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_aranges
+                0x00000130       0x30 ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_aranges
+                0x00000160       0x20 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_aranges
+                0x00000180       0x60 ./Sources/main.o
+ .debug_aranges
+                0x000001e0       0x40 ./Sources/UART.o
+ .debug_aranges
+                0x00000220       0x30 ./Sources/MSCAN_Module.o
+ .debug_aranges
+                0x00000250       0x20 ./Sources/CLK.o
+ .debug_aranges
+                0x00000270       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_aranges
+                0x00000290       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_aranges
+                0x000002b0       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_aranges
+                0x000002d0       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_aranges
+                0x000002f8       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_aranges
+                0x00000318       0x88 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_aranges
+                0x000003a0       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_aranges
+                0x000003c0       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_aranges
+                0x000003e0       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_aranges
+                0x00000400       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_aranges
+                0x00000420       0x20 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_aranges
+                0x00000440       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_aranges
+                0x00000468       0x58 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_aranges
+                0x000004c0       0x30 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_macinfo  0x00000000   0x11332a
+ .debug_macinfo
+                0x00000000    0x164f5 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+ .debug_macinfo
+                0x000164f5    0x2391d ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .debug_macinfo
+                0x00039e12    0x262e8 ./MSCAN_DRIVER/CAN_src/msCANID.o
+ .debug_macinfo
+                0x000600fa    0x2178d ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_macinfo
+                0x00081887     0x3e6d ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_macinfo
+                0x000856f4     0x3456 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_macinfo
+                0x00088b4a    0x23fa1 ./Sources/main.o
+ .debug_macinfo
+                0x000acaeb    0x21796 ./Sources/UART.o
+ .debug_macinfo
+                0x000ce281    0x23927 ./Sources/MSCAN_Module.o
+ .debug_macinfo
+                0x000f1ba8    0x21782 ./Sources/CLK.o
+
+.debug_line     0x00000000     0x2a4b
+ .debug_line    0x00000000      0x167 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+ .debug_line    0x00000167      0x6d0 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .debug_line    0x00000837      0x175 ./MSCAN_DRIVER/CAN_src/msCANID.o
+ .debug_line    0x000009ac      0x20d ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_line    0x00000bb9      0x28c ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_line    0x00000e45      0x26d ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_line    0x000010b2      0x40b ./Sources/main.o
+ .debug_line    0x000014bd      0x235 ./Sources/UART.o
+ .debug_line    0x000016f2      0x2ab ./Sources/MSCAN_Module.o
+ .debug_line    0x0000199d      0x1d2 ./Sources/CLK.o
+ .debug_line    0x00001b6f       0x8d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_line    0x00001bfc       0x90 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_line    0x00001c8c       0xf6 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_line    0x00001d82      0x2c3 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_line    0x00002045      0x2be C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_line    0x00002303      0x1be C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_line    0x000024c1      0x11e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_line    0x000025df       0x7d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_line    0x0000265c       0x8b C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_line    0x000026e7       0x85 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_line    0x0000276c       0x9f C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_line    0x0000280b       0x6c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_line    0x00002877      0x117 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_line    0x0000298e       0xbd C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_str      0x00000000     0x1efd
+ .debug_str     0x00000000      0x8db ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                                0x964 (size before relaxing)
+ .debug_str     0x000008db      0x58f ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+                                0xee5 (size before relaxing)
+ .debug_str     0x00000e6a       0x42 ./MSCAN_DRIVER/CAN_src/msCANID.o
+                                0x148 (size before relaxing)
+ .debug_str     0x00000eac      0x15a ./Project_Settings/Startup_Code/kinetis_sysinit.o
+                                0x253 (size before relaxing)
+ .debug_str     0x00001006       0x85 ./Project_Settings/Startup_Code/__arm_start.o
+                                0x187 (size before relaxing)
+ .debug_str     0x0000108b       0x3a ./Project_Settings/Startup_Code/__arm_end.o
+                                 0xbe (size before relaxing)
+ .debug_str     0x000010c5      0x34b ./Sources/main.o
+                                0x5c8 (size before relaxing)
+ .debug_str     0x00001410       0xf8 ./Sources/UART.o
+                                0x1ff (size before relaxing)
+ .debug_str     0x00001508      0x134 ./Sources/MSCAN_Module.o
+                                0x36f (size before relaxing)
+ .debug_str     0x0000163c       0x33 ./Sources/CLK.o
+                                0x12b (size before relaxing)
+ .debug_str     0x0000166f       0x5a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+                                0x157 (size before relaxing)
+ .debug_str     0x000016c9       0x23 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+                                0x140 (size before relaxing)
+ .debug_str     0x000016ec       0x2d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+                                0x152 (size before relaxing)
+ .debug_str     0x00001719      0x233 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+                                0x3b3 (size before relaxing)
+ .debug_str     0x0000194c      0x184 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+                                0x3f9 (size before relaxing)
+ .debug_str     0x00001ad0       0x9d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+                                0x1bc (size before relaxing)
+ .debug_str     0x00001b6d       0x61 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+                                0x1fb (size before relaxing)
+ .debug_str     0x00001bce       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+                                0x137 (size before relaxing)
+ .debug_str     0x00001bea       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+                                0x138 (size before relaxing)
+ .debug_str     0x00001c06       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+                                0x140 (size before relaxing)
+ .debug_str     0x00001c22       0x1c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+                                0x148 (size before relaxing)
+ .debug_str     0x00001c3e      0x126 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+                                0x181 (size before relaxing)
+ .debug_str     0x00001d64       0xf8 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+                                0x1b5 (size before relaxing)
+ .debug_str     0x00001e5c       0xa1 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+                                0x13c (size before relaxing)
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 ./MSCAN_DRIVER/CAN_src/msCANgv.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000000       0x7a ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .comment       0x00000000       0x7a ./MSCAN_DRIVER/CAN_src/msCANID.o
+ .comment       0x00000000       0x7a ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .comment       0x00000000       0x7a ./Project_Settings/Startup_Code/__arm_start.o
+ .comment       0x00000000       0x7a ./Project_Settings/Startup_Code/__arm_end.o
+ .comment       0x00000000       0x7a ./Sources/main.o
+ .comment       0x00000000       0x7a ./Sources/UART.o
+ .comment       0x00000000       0x7a ./Sources/MSCAN_Module.o
+ .comment       0x00000000       0x7a ./Sources/CLK.o
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .comment       0x00000000       0x7a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_loc      0x00000000     0x306b
+ .debug_loc     0x00000000      0x540 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .debug_loc     0x00000540       0x58 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_loc     0x00000598       0x2c ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_loc     0x000005c4       0x38 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_loc     0x000005fc      0x1d4 ./Sources/main.o
+ .debug_loc     0x000007d0      0x100 ./Sources/UART.o
+ .debug_loc     0x000008d0       0x84 ./Sources/MSCAN_Module.o
+ .debug_loc     0x00000954       0x2c ./Sources/CLK.o
+ .debug_loc     0x00000980       0x3e C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_loc     0x000009be       0x6f C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_loc     0x00000a2d      0x14a C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_loc     0x00000b77     0x104b C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_loc     0x00001bc2      0x9d8 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_loc     0x0000259a      0x30d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_loc     0x000028a7      0x305 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_loc     0x00002bac       0xaf C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_loc     0x00002c5b       0x59 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_loc     0x00002cb4       0x33 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_loc     0x00002ce7       0x77 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_loc     0x00002d5e       0x9d C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_loc     0x00002dfb      0x197 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_loc     0x00002f92       0xd9 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
+
+.debug_frame    0x00000000      0xad4
+ .debug_frame   0x00000000      0x310 ./MSCAN_DRIVER/CAN_src/msCANdrv.o
+ .debug_frame   0x00000310       0x48 ./Project_Settings/Startup_Code/kinetis_sysinit.o
+ .debug_frame   0x00000358       0x4c ./Project_Settings/Startup_Code/__arm_start.o
+ .debug_frame   0x000003a4       0x30 ./Project_Settings/Startup_Code/__arm_end.o
+ .debug_frame   0x000003d4      0x124 ./Sources/main.o
+ .debug_frame   0x000004f8       0xac ./Sources/UART.o
+ .debug_frame   0x000005a4       0x64 ./Sources/MSCAN_Module.o
+ .debug_frame   0x00000608       0x2c ./Sources/CLK.o
+ .debug_frame   0x00000634       0x2c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(exit.o)
+ .debug_frame   0x00000660       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memset.o)
+ .debug_frame   0x00000688       0x2c C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__filll_mem.o)
+ .debug_frame   0x000006b4       0x54 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(printformat_.o)
+ .debug_frame   0x00000708       0x34 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(scanformat_.o)
+ .debug_frame   0x0000073c      0x158 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(ctype_aeabi.o)
+ .debug_frame   0x00000894       0x30 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(__strtoul.o)
+ .debug_frame   0x000008c4       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strchr.o)
+ .debug_frame   0x000008ec       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memcpy.o)
+ .debug_frame   0x00000914       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(strlen.o)
+ .debug_frame   0x0000093c       0x28 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\libc.a(memchr.o)
+ .debug_frame   0x00000964       0x20 c:/freescale/cw mcu v10.6.4/cross_tools/arm-none-eabi-gcc-4_7_3/bin/../lib/gcc/arm-none-eabi/4.7.3/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000984       0x40 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(gcc_ctor_dtor.o)
+ .debug_frame   0x000009c4       0xbc C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(__arm_eabi_init.o)
+ .debug_frame   0x00000a80       0x54 C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/lib/armv6-m\librt.a(ROMCopy.o)
